@@ -1,4 +1,4 @@
-.\" Manpage for Our _Printf Project.
+Iike up.\" Manpage for Our _Printf Project.
 .\"
 .TH man 1 "19 04 2022" "1.0" "_Printf Project man page"
 .SH NAME
@@ -44,5 +44,5 @@ printf(1), _printf(2), printf(3), sprintf(), snprintf(), vsprintf(), vsnprintf()
 .SH BUGS
 
 
-.SH AUTHOR
+.SH AUTHORs
 Lutaaya Abdallah and Mariam Namboze - Students at ALX Africa.
