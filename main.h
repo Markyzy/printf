@@ -5,7 +5,7 @@
 /**
  * struct specifier - struct specifier
  * @valid: the valid character.
- * @f: the functions associated.
+ * @f: the function associated.
  *
  */
 typedef struct specifier
